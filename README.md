@@ -3,6 +3,8 @@
 
 **Created By Tanush Nadimpalli and Ashwin Murali**
 
+**Prototype: https://tanushn.github.io/HelpingHand/**
+
 ## Inspiration
 When we first heard the prompt, our first thought was of homeless people. We knew that 80% of homeless people had smartphones but obviously 100% do not have homes. As such, we wanted to build a website for homeless people to use from their smartphones to help them find people or organizations who were willing to contribute food or shelter to the homeless.
 
